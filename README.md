@@ -1,4 +1,4 @@
-# STELTH
+# PROJECT X
 
 **A Python-based Windows malware research and development project.**
 
